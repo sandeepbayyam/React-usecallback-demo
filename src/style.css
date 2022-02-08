@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid;
+}
+.task{
+  padding: 5px;
+  margin: 5px;
+  border: 3px solid green;
+}
